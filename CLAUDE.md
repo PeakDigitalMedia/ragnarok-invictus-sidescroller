@@ -1,4 +1,4 @@
-# RAGNARÖK INVICTUS — Claude Code Project Briefing
+# RAGNARÖK INVICTUS: SIDE SCROLLER — Claude Code Project Briefing
 
 > *Ragnarök Is Not a Prophecy. It Is an Invasion.*
 
